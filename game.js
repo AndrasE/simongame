@@ -19,14 +19,19 @@ $(document).keydown(function() {
 
 // user chosen colours
 $(".btn").click(function() {
+  if (started == false) {
+    $("#level-title").text("Level " + level);
+    nextSequence();
+    started = true;
+  } else {
+
   var userChosenColour = $(this).attr("id");
   userClickedPattern.push(userChosenColour); //push in array
   console.log(userClickedPattern);
-
   playSound(userChosenColour);
   animatePress(userChosenColour);
   checkAnswer(userClickedPattern.length-1);
-});
+}});
 //checking the asnwer notice if in if, thats where you fckd it up..
 function checkAnswer(currentLevel) {
   if (gamePattern[currentLevel] === userClickedPattern[currentLevel]) {
@@ -37,13 +42,11 @@ function checkAnswer(currentLevel) {
     } , 1500);
   }
   } else {
-    $("#level-title").text("You suck! Press any key to restart dumbass!🤣");
+    $("#level-title").text("You suck!😋 Press A Key or Click to Start");
     $("body").addClass("game-over");
-
     setTimeout(function () {
       $("body").removeClass("game-over");
     }, 200);
-
     playSound("wrong");
     startOver();
   }
