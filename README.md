@@ -14,7 +14,7 @@
 
 ## Hi there 👋
 
-This project was part of my self-study. Introduction to jquery.
+This project was part of my self-study. Introduction to jquery part of a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> course.
   
 Take care, code safe! 💻
 
