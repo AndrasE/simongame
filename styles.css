@@ -82,9 +82,7 @@ a:hover {
 }
 
 @media screen and (max-width: 500px) {
-  body {
-   margin: 110px 0;
-  }
+
   #level-title  {
     font-size: 1.2rem;
   }
