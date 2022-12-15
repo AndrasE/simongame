@@ -14,7 +14,7 @@
 
 ## Hi there 👋
 
-This project was part of my self-study. Introduction to jquery part of a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> course. Creating random number between 1-4 and allocate a color of an array to them, which gets pushed in an other array. The user will try to recreate the same array or will loose the game. Some playsound and animation added to make it more visual. I also added some @medias for smaller screens. Good little starter project! 🟩
+This project was part of my self-study. Introduction to jQuery part of a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> course. Creating random number between 1-4 and allocate a colour of an array to them, which gets pushed in an other array. The user will try to recreate the same array or end up loosing the game. Some playsounds and animations were added to make it more visual engaging. I also added some @medias for smaller screens. Good little starter project! 🟩
   
 Take care, code safe! 💻
 
