@@ -21,7 +21,7 @@ Take care, code safe! 💻
 <br>
 
 ## Run 🚀
-HTML, CSS, JS so just clone it! 💉
+HTML, CSS, JS only, so just clone it!💉
 
 ```sh
 $ git clone https://github.com/AndrasE/drum
