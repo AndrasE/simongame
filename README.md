@@ -1,30 +1,27 @@
-<br>
-<p align="center">
-  <a href="https://andrase.github.io/simongame/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/simon-readme-img.png?raw=true" width="220px">
-  </a>
-</p>
 <h3 align="center">
-  Simon Game
-  <br>
-  Jquery
+  <a href="https://andrase.github.io/simongame/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/AndrasE/raw-readme/blob/main/simon-readme-img.png?raw=true" width="140px">
+  </a>
+<br/>
+  Simon Game with JQuery
 </h3>
-
-<br>
 
 ## Hi there 👋
 
-This project was part of my self-study. Introduction to jQuery part of a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> course. Creating random number between 1-4 and allocate a colour of an array to them, which gets pushed in another array. The user will try to recreate the same array or end up loosing the game. Some playsounds and animations were added to make it more visual and engaging. I also added some @medias for smaller screens. Good little starter project! 🟩
-  
-Take care, code safe! 💻
+This project was a part of my self-study while taking a **[Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp)** course on **[jQuery](https://jquery.com/)**. 
 
-<br>
+It involves generating random numbers between 1 and 4, assigning corresponding colors from an array, and pushing them into a new sequence. The challenge for the user is to replicate the sequence correctly, or they lose the game. I enhanced the experience by adding sound effects and animations to make it more engaging and visually appealing. I also incorporated media queries for better responsiveness on smaller screens. Overall, a great beginner project!
 
 ## Run 🚀
-HTML, CSS, JS only, so just clone it!💉
 
-```sh
+`
 $ git clone https://github.com/AndrasE/drum
+`
+
+`
 $ cd PROJECTNAME
+`
+
+`
 $ open index.html
-```
+`
