@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://andrase.github.io/simongame/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/simon-readme-img.png?raw=true" width="140px">
+  <img src="https://github.com/AndrasE/raw-readme/blob/e0ba0d38fc6f2bb201983bbc4986e59f1ae946f2/logo/simon-readme-img.png" width="140px">
   </a>
 <br/>
   Simon Game with JQuery
